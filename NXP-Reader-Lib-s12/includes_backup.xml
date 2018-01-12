@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C Source File">
+<includepath workspace_path="false">${ProjDirPath}/intfs</includepath>
+<includepath workspace_path="false">${ProjDirPath}/types</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phnpSnep/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phnpSnep/src/Fri</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phOsal/src/Stub</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phOsal/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phacDiscLoop/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phacDiscLoop/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalFelica/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalFelica/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMfc/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMfc/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMfdf/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMfdf/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMful/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMful/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalT1T/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalT1T/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalTop/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalTop/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phbalReg/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phbalReg/src/Stub</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phCidManager/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phCidManager/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phKeyStore/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phKeyStore/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phlnLlcp/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phhalHw/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phhalHw/src/Callback</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phhalHw/src/Ncx3320</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phhalHw/src/Pn512</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phKeyStore/src/Ncx3320</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phlnLlcp/src/Fri</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phLog/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalFelica/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalFelica/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p3a/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p3a/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p3b/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p3b/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p4/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p4/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p4a/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p4a/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI18092mPI/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI18092mPI/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI18092mT/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI18092mT/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalMifare/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalMifare/src</includepath>
+<includepath>${MCUToolsBaseDir}/S12lisa_Support/s12lisac/include</includepath>
+<includepath>${MCUToolsBaseDir}/S12lisa_Support/s12lisac/src</includepath>
+<includepath>${MCUToolsBaseDir}/S12lisa_Support/s12lisac/lib_small</includepath>
+
+</language>
+<language name="C++ Source File">
+<includepath workspace_path="false">${ProjDirPath}/intfs</includepath>
+<includepath workspace_path="false">${ProjDirPath}/types</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phnpSnep/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phnpSnep/src/Fri</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phOsal/src/Stub</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phOsal/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phacDiscLoop/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phacDiscLoop/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalFelica/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalFelica/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMfc/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMfc/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMfdf/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMfdf/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMful/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalMful/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalT1T/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalT1T/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalTop/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phalTop/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phbalReg/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phbalReg/src/Stub</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phCidManager/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phCidManager/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phKeyStore/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phKeyStore/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phlnLlcp/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phhalHw/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phhalHw/src/Callback</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phhalHw/src/Ncx3320</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phhalHw/src/Pn512</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phKeyStore/src/Ncx3320</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phlnLlcp/src/Fri</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phLog/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalFelica/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalFelica/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p3a/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p3a/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p3b/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p3b/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p4/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p4/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p4a/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI14443p4a/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI18092mPI/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI18092mPI/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI18092mT/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalI18092mT/src</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalMifare/src/Sw</includepath>
+<includepath workspace_path="false">${ProjDirPath}/comps/phpalMifare/src</includepath>
+<includepath>${MCUToolsBaseDir}/S12lisa_Support/s12lisac/include</includepath>
+<includepath>${MCUToolsBaseDir}/S12lisa_Support/s12lisac/src</includepath>
+<includepath>${MCUToolsBaseDir}/S12lisa_Support/s12lisac/lib_small</includepath>
+
+</language>
+<language name="Assembly Source File">
+
+</language>
+</section>
+</cdtprojectproperties>

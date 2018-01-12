@@ -1,0 +1,57 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="2">
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/Spi.c" FileDate="1970-01-01, 00:59:59" FileAge="-1" FileType="45637" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2016-03-30, 13:33:51" FileAge="1459337631445" FileType="45637" CompNumb="66" />
+      <File Name="Generated_Code/LED_R_BIT.h" FileDate="2016-02-16, 09:13:36" FileAge="1455610416279" FileType="45637" CompNumb="67" />
+      <File Name="Generated_Code/EN_PWR.h" FileDate="2016-03-30, 13:33:51" FileAge="1459337631149" FileType="45637" CompNumb="73" />
+      <File Name="Documentation/Reader-Lib-HAL-PE_SIGNALS.txt" FileDate="2016-03-30, 13:33:51" FileAge="1459337631515" FileType="3072" />
+      <File Name="Generated_Code/LED_R_BIT.c" FileDate="2016-02-16, 09:13:36" FileAge="1455610416289" FileType="45637" CompNumb="67" />
+      <File Name="Generated_Code/EN_PWR.c" FileDate="2016-03-30, 13:33:51" FileAge="1459337631145" FileType="45637" CompNumb="73" />
+      <File Name="Generated_Code/PE_Timer.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364468" FileType="45637" />
+      <File Name="Generated_Code/PIN_SSEL.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364792" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/PE_Timer.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364443" FileType="45637" />
+      <File Name="Generated_Code/Terminal.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364613" FileType="45637" CompNumb="18" />
+      <File Name="Generated_Code/PIN_SSEL.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364778" FileType="45637" CompNumb="27" />
+      <File Name="Generated_Code/Terminal.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364586" FileType="45637" CompNumb="18" />
+      <File Name="Sources/Events.h" FileDate="2016-03-30, 13:33:51" FileAge="1459337631471" FileType="131328" />
+      <File Name="Sources/Events.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364358" FileType="131328" />
+      <File Name="Generated_Code/Utility.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364558" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364493" FileType="45637" />
+      <File Name="Generated_Code/Utility.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364535" FileType="45637" CompNumb="23" />
+      <File Name="Generated_Code/IO_Map.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364476" FileType="45637" />
+      <File Name="Documentation/Reader-Lib-HAL-PE.txt" FileDate="2016-03-30, 13:33:51" FileAge="1459337631702" FileType="3072" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364500" FileType="45637" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364515" FileType="45637" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364507" FileType="45637" />
+      <File Name="Documentation/Reader-Lib-HAL-PE_Settings.xml" FileDate="2016-03-30, 13:33:51" FileAge="1459337631632" FileType="3072" />
+      <File Name="Generated_Code/TMR2.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364669" FileType="45637" CompNumb="62" />
+      <File Name="Sources/main.c" FileDate="2016-03-30, 13:33:51" FileAge="1459337631411" FileType="128" />
+      <File Name="Generated_Code/TMR2.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364652" FileType="45637" CompNumb="62" />
+      <File Name="Generated_Code/LED_BIT.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364763" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/TMR1.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364721" FileType="45637" CompNumb="61" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.prm" FileDate="2016-02-15, 16:16:04" FileAge="1455549364398" FileType="8" CompNumb="66" />
+      <File Name="Generated_Code/PIN_RESET.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364806" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/LED_BIT.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364757" FileType="45637" CompNumb="16" />
+      <File Name="Generated_Code/TMR1.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364691" FileType="45637" CompNumb="61" />
+      <File Name="Generated_Code/PIN_RESET.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364799" FileType="45637" CompNumb="15" />
+      <File Name="Generated_Code/TMR0.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364751" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2016-02-16, 09:13:36" FileAge="1455610416327" FileType="45637" CompNumb="66" />
+      <File Name="Generated_Code/Inhr1.h" FileDate="2016-02-15, 16:16:04" FileAge="1455549364629" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/Spi.h" FileDate="1970-01-01, 00:59:59" FileAge="-1" FileType="45637" />
+      <File Name="Generated_Code/TMR0.c" FileDate="2016-02-15, 16:16:04" FileAge="1455549364737" FileType="45637" CompNumb="17" />
+      <File Name="Generated_Code/Inhr1.c" FileDate="2016-03-30, 13:33:51" FileAge="1459337631392" FileType="45637" CompNumb="19" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2016-03-30, 13:33:51" FileAge="1459337631435" FileType="45637" CompNumb="66" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>63</CodeGenReference>
+</CodeGenerationInfo>
